@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de tecnologia apaixonado por desenvolvimento de software.
+Sou estudante de tecnologia e buscando sempre novos desafio por desenvolvimento de software.
 Atualmente estou focado em aprender **desenvolvimento backend**, criação de **APIs REST** e integração com **banco de dados**.
 
 Tenho desenvolvido projetos práticos para melhorar minhas habilidades e construir um portfólio sólido.
@@ -33,6 +33,9 @@ Tenho desenvolvido projetos práticos para melhorar minhas habilidades e constru
 
 * PostgreSQL
 
+**Pretendo dominar Futuramente**
+
+* C#
 ---
 
 ## 🚀 Projetos em destaque
